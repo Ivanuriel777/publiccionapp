@@ -323,7 +323,7 @@ const styles = StyleSheet.create({
   },
   titulo: {
     fontSize: 24,
-    fontWeight: 'future',
+    fontWeight: 'Script',
     flex: 1,
     textAlign: 'center',
   },
